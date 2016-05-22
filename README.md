@@ -6,6 +6,9 @@
 
 主程式：CreepEditor.jar
 
+圖片會在 `Move` 資料夾存放 gif，在 `Stay` 資料夾存放切割的圖，在 `SaveData` 存放人物資訊。
+
+
 ## 注意事項
 
 `GIFEncoder.java`、`GifDecoder.java`、`GifUtil.java` 為網路找來的程式碼，非本人編寫。
